@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d291e55-d56a-4ce2-b1fc-f9f8ffb5dbdd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Annotations/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Annotations/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Annotations/TestAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Personal/RefreshVideoOnDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Personal/SyntaxHRM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/DependsOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/EnableDisable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/TestNGAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/TestNGExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class02/ExampleAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class02/HardAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class02/SoftAssertionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class02/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class03/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class03/DataProviderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class03/ListenerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class03/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class04/ImplementationOfListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class04/LoginTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IDnf94NjzatT94EE0yTShxG0Wr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/ramzi/IdeaProjects/Maven/src/test/java/Class/No01&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Class.No01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.EnableDisable">
+    <configuration name="C:/Users/ramzi/IdeaProjects/Maven/LoginTestImplementationofListeners.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/LoginTestImplementationofListeners.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/ramzi/IdeaProjects/Maven/TestAnnotation.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestAnnotation.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProviderDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="class03" />
+      <option name="MAIN_CLASS_NAME" value="class03.DataProviderDemo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnableDisable" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="class01" />
+      <option name="MAIN_CLASS_NAME" value="class01.EnableDisable" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="class04" />
+      <option name="MAIN_CLASS_NAME" value="class04.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.EnableDisable" />
+        <item itemvalue="TestNG.C:/Users/ramzi/IdeaProjects/Maven/TestAnnotation.xml" />
+        <item itemvalue="TestNG.C:/Users/ramzi/IdeaProjects/Maven/LoginTestImplementationofListeners.xml" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.DataProviderDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d291e55-d56a-4ce2-b1fc-f9f8ffb5dbdd" name="Changes" comment="" />
+      <created>1669725126953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669725126953</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

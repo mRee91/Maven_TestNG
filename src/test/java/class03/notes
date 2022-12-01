@@ -1,0 +1,38 @@
+1.
+@BeforeClass-->execute just once before the class starts to execute
+@Afterclass--> execute just once after the whole class has executed
+
+2. Data Provider
+if we have a diverse data set then we can use data provider to feed the test data to our test case
+
+@dataProvider(naem="crdentials")
+we declare the data in a form of ZDarray
+
+if i want to use data provider in a tet case
+@Test (dataProvider='credentials')
+public void login(String a, string b, String c){}
+
+in order to use to use data from 2D array i must give in the parameters .
+the parameters are going to be equal to the number of columns , will the follow a sequence.
+How many times the function @Test is going to execute ???? --> euqal to the number of rows we have in our Data provider
+
+---------------------------Listeners------------------
+why do we need listeners?
+because we have no way of performing an action if our test case pass,fails,ignores e,t,c
+
+How do we use listeners?
+1.Create a class that implements ITestListener
+@Override the functions available to us in ITestListener
+
+ontestSucces()
+OnTestFailure()
+
+2.Link it to the class/package through the xml file.
+
+<Suite>
+    <lsiteneres>
+        <listenrs name="what ever class you hvae implmented ur listenrs in"/>
+    <listeneres>
+    <test>
+    </test>
+</suite>
