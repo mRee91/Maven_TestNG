@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/ramzi/IdeaProjects/Maven/src/test/java/class01/Priority.java">
+        <classes>
+            <class name="class01.Priority">
+                <methods>
+                    <include name="Atest"/>
+                    <exclude name="Btest"/>
+                    <include name="Ctest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

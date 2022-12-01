@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/ramzi/IdeaProjects/Maven/src/test/java/class03/Annotations.java">
+        <classes>
+            <class name="class03.Annotations">
+                <methods>
+                    <include name="AFirstTest"/>
+                    <include name="BSecondTest"/>
+                </methods>
+            </class>
+            
+            <class name="class02.HardAssertions"></class>
+        </classes>
+    </test>
+</suite>
